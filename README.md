@@ -15,6 +15,7 @@ mecanismos de segurança para garantir a integridade e confidencialidade das inf
    Durante o desenvolvimento, serão aplicadas práticas de teste de software para garantir a qualidade do sistema e a detecção 
 precoce de possíveis problemas. Serão utilizados testes unitários, testes de integração e testes de aceitação para validar o 
 correto funcionamento das funcionalidades e garantir que todas as regras de negócio sejam atendidas. 
+
    Esse projeto tem relevância para a compreensão dos conceitos de teste de software e para o aprimoramento das habilidades de 
 programação orientada a objetos em Java. Espera-se que, ao final, o Sistema Bancário desenvolvido esteja em conformidade com os 
 requisitos estabelecidos e pronto para ser implantado em um ambiente de produção, atendendo às necessidades dos usuários e 
