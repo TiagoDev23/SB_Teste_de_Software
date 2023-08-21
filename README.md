@@ -3,7 +3,7 @@
 ## Introdução 
 
    O projeto de desenvolvimento de um Sistema Bancário em Java utilizando o paradigma de orientação a objetos tem como objetivo 
-criar uma aplicação robusta e segura para a gestão de atividades bancárias. A orientação a objetos permite modelar entidades e suas 
+criar uma aplicação para a gestão de atividades bancárias. A orientação a objetos permite modelar entidades e suas 
 interações, simplificando o processo de desenvolvimento e manutenção. 
 
 ## SObre o projeto:
