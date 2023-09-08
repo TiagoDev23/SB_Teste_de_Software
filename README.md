@@ -23,6 +23,7 @@ proporcionando uma experiência positiva aos clientes bancários.
 
 ## Links Úteis:
 
+   Link para artigo no Overleaf -> -- https://www.overleaf.com/1338933686khsdttkjhxyh --
    Documento escrito -> -- https://docs.google.com/document/d/1_3IuYBi9j9LLtuhEDnEZ4mGB4WvXWb8s2MB1z-R2SOE/edit --
    Apresentação Canva -> -- https://www.canva.com/design/DAFqZeupGLI/JPVp07P1fxLmky3Jo2nKZg/edit --
 
