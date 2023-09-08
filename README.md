@@ -6,7 +6,7 @@
 criar uma aplicação para a gestão de atividades bancárias. A orientação a objetos permite modelar entidades e suas 
 interações, simplificando o processo de desenvolvimento e manutenção. 
 
-## SObre o projeto:
+## Sobre o projeto:
 
    O sistema bancário terá como principais funcionalidades a criação e gerenciamento de contas bancárias, processamento de
 depósitos e saques, transferências entre contas, emissão de extratos, e consulta de saldo. Além disso, serão implementados 
